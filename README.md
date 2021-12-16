@@ -1,6 +1,6 @@
 # Simple Blog With Database
 
-Tema: Black Clover
+Tema: Blog Website
 
 Menggunakan:
 
