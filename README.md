@@ -34,14 +34,14 @@ Menggunakan:
   ~ cd Downloads/<Nama folder yang anda buat>
   ~ npm install
   ```     
-  4. Jalankan Server mongoose anda diterminal. caranya: Buka 2 tab baru dan ketikkan `mongod` dan `mongo`. jika MongoDB terinstall dengan benar Seharusnya tidak ada masalah
+  4. Jalankan Server mongoose anda di terminal. caranya: Buka 2 tab baru dan ketikkan `mongod` dan `mongo`. jika MongoDB terinstall dengan benar seharusnya tidak ada masalah.
   5. Jalankan `node app.js`
   6. Pergi ke URL `localhost:3000`
 
 
 ## Note ❗❗❗
 
-Dikarenakan ada Update, mungkin program tidak berjalan di versi node yang sebelum (v17.x).
+#### Dikarenakan ada Update, mungkin program tidak berjalan di versi node yang sebelum (v17.x).
 
 > Jika anda menggunakan NodeJS versi dibawah (v17.x) maka untuk connect ke MongoDB anda perlu mengubah `127.0.0.1` menjadi `localhost`.   
 ```sh
