@@ -34,9 +34,9 @@ Menggunakan:
   ~ cd Downloads/<Nama folder yang anda buat>
   ~ npm install
   ```     
-  4. Jalankan Server mongoose anda. caranya: Buka 2 tab baru dan ketikkan `mongod` dan `mongo`. jika MongoDB terinstall dengan benar Seharusnya tidak ada masa
-  5. Lalu jalankan `node app.js`
-  6. pergi ke URL `localhost:3000`
+  4. Jalankan Server mongoose anda diterminal. caranya: Buka 2 tab baru dan ketikkan `mongod` dan `mongo`. jika MongoDB terinstall dengan benar Seharusnya tidak ada masalah
+  5. Jalankan `node app.js`
+  6. Pergi ke URL `localhost:3000`
 
 
 ## Note ❗❗❗
